@@ -1,0 +1,8 @@
+C:\Users\Kiwi\Documents\archivos de VS\WebiWI\ProjectDatos\bin\Debug\ProjectDatos.exe.config
+C:\Users\Kiwi\Documents\archivos de VS\WebiWI\ProjectDatos\bin\Debug\ProjectDatos.exe
+C:\Users\Kiwi\Documents\archivos de VS\WebiWI\ProjectDatos\bin\Debug\ProjectDatos.pdb
+C:\Users\Kiwi\Documents\archivos de VS\WebiWI\ProjectDatos\obj\Debug\ProjectDatos.csproj.AssemblyReference.cache
+C:\Users\Kiwi\Documents\archivos de VS\WebiWI\ProjectDatos\obj\Debug\ProjectDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kiwi\Documents\archivos de VS\WebiWI\ProjectDatos\obj\Debug\ProjectDatos.csproj.CoreCompileInputs.cache
+C:\Users\Kiwi\Documents\archivos de VS\WebiWI\ProjectDatos\obj\Debug\ProjectDatos.exe
+C:\Users\Kiwi\Documents\archivos de VS\WebiWI\ProjectDatos\obj\Debug\ProjectDatos.pdb
